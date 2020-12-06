@@ -1,0 +1,10 @@
+name: RulesUI
+version: 1.0
+main: Ronay1140\RulesUI\Main
+api: [3.0.0, 4.0.0]
+author: Ronay1140
+
+commands:
+  rulesui:
+    usage: /rules
+    description: "Membuka RulesUI"
