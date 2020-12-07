@@ -66,7 +66,6 @@ class Main extends PluginBase implements Listener {
             switch($result) {
                 case 0:
                     $sender->sendMessage($this->cfg->getNested("messages.close_plugin"));
-                    $sender->addTitle($this->cfg->getNested("messages.close_plugin"));
                 break;
        
             }
