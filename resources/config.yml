@@ -1,20 +1,17 @@
-# RulesUI File Bahasa Config.
+# RulesUI Config Language File.
 # Gunakan "§" untuk menambahkan warna.
-# Gunakan "\ n" untuk menambahkan garis baru.
-# Masukkan pesan yang akan muncul saat menggunakan Command.
+# Gunakan "\n" untuk menambahkan garis baru.
 
-message:
+# Masukkan pesan yang akan muncul saat menggunakan Command.
+messages:
  use_in_game: "§l§7Error: §rGunakan perintah ini di dalam game"
- close_plugin: "§bTerima Kasih Telah Membaca"
- close_plugin2: "§eMembaca RulesUI"
+ close_plugin: "§l§a§fTerima kasih telah membaca"
 
 # Masukkan judul dari masing-masing menu.
-
 menu:
  title: "§l§eRulesUI"
- description: "§bHarap Patuhi Rules! §r \ n§c1.Dilarang Keras Hack / Cheat§r \ n§c2.Dilarang Keras Toxic"
+ description: "§bTuliskan deskripsi tentang Rules disini"
 
-# Masukkan nama tombol penutup ketika menggunakan RulesUI.
-
+# Masukkan nama tombol penutup ketika menggunakan MenuUI.
 btn:
  close: "§lKeluar"
