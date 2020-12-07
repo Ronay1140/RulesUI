@@ -1,4 +1,4 @@
-name: RulesUI
+name: RulesUI_By_Ronay1140
 version: 1.0
 main: Ronay1140\RulesUI\Main
 api: [3.0.0, 4.0.0]
@@ -6,5 +6,6 @@ author: Ronay1140
 
 commands:
   rulesui:
-    usage: /rules
+    usage: /rulesui
+    aliases: [rules]
     description: "Membuka RulesUI"
